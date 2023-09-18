@@ -1,0 +1,90 @@
+[{
+    "id": 1,
+    "title": "Ryzen 5 5600X",
+    "description": "CPU AMD Ryzen 5 5600X",
+    "price": 322.99,
+    "thumbnail": "imagen1.jpg",
+    "code": "R53600X",
+    "stock": 90
+  },
+  {
+    "id": 2,
+    "title": "Intel Core i7-11700K",
+    "description": "CPU Intel Core i7-11700K",
+    "price": 389.99,
+    "thumbnail": "imagen3.jpg",
+    "code": "I711700K",
+    "stock": 70
+  },
+  {
+    "id": 3,
+    "title": "Asrock B450 Steel Legends",
+    "description": "Motherboard AM4",
+    "price": 155.99,
+    "thumbnail": "imagen2.jpg",
+    "code": "AB450SL",
+    "stock": 50
+  },
+  {
+    "id": 4,
+    "title": "ASUS ROG B650",
+    "description": "Motherboard AM5",
+    "price": 415.99,
+    "thumbnail": "imagen2.jpg",
+    "code": "ROG650",
+    "stock": 50
+  },
+  {
+    "id": 5,
+    "title": "NVIDIA GeForce RTX 3070",
+    "description": "GPU NVIDIA GeForce RTX 3070",
+    "price": 699.99,
+    "thumbnail": "imagen4.jpg",
+    "code": "RTX3070",
+    "stock": 30
+  },
+  {
+    "id": 6,
+    "title": "AMD Radeon RX 6800 XT",
+    "description": "GPU AMD Radeon RX 6800 XT",
+    "price": 799.99,
+    "thumbnail": "imagen5.jpg",
+    "code": "RX6800XT",
+    "stock": 25
+  },
+  {
+    "id": 7,
+    "title": "Corsair Vengeance RGB Pro",
+    "description": "16GB DDR4 RAM",
+    "price": 129.99,
+    "thumbnail": "imagen6.jpg",
+    "code": "CVRGBP16",
+    "stock": 100
+  },
+  {
+    "id": 8,
+    "title": "G.Skill Ripjaws V",
+    "description": "32GB DDR4 RAM",
+    "price": 189.99,
+    "thumbnail": "imagen7.jpg",
+    "code": "GSRV32",
+    "stock": 80
+  },
+  {
+    "id": 9,
+    "title": "Samsung 970 EVO Plus",
+    "description": "1TB NVMe SSD",
+    "price": 199.99,
+    "thumbnail": "imagen8.jpg",
+    "code": "970EVO1TB",
+    "stock": 60
+  },
+  {
+    "id": 10,
+    "title": "WD Blue 4TB HDD",
+    "description": "4TB Hard Disk Drive",
+    "price": 139.99,
+    "thumbnail": "imagen9.jpg",
+    "code": "WDBLUE4TB",
+    "stock": 45
+  }]
